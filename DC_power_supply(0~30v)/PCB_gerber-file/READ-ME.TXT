@@ -8,13 +8,13 @@ CADCAM generated at 8:21:58 AM on Tuesday, August 25, 2026.
 
 File List
 ---------
-Bottom Copper           : siju_final - CADCAM Bottom Copper.GBR
-Top Silk Screen         : siju_final - CADCAM Top Silk Screen.GBR
-Bottom Solder Resist    : siju_final - CADCAM Bottom Solder Resist.GBR
-Profile                 : siju_final - CADCAM Profile.GBR
-Drill, Plated, 1-16     : siju_final - CADCAM Drill TOP-BOT Plated.GBR
-Drill, Filled, 1-16     : siju_final - CADCAM Drill TOP-BOT Filled and Plated.GBR
-Netlist                 : siju_final - CADCAM Netlist.IPC
+Bottom Copper           : Bottom Copper.GBR
+Top Silk Screen         : Top Silk Screen.GBR
+Bottom Solder Resist    : Bottom Solder Resist.GBR
+Profile                 : Profile.GBR
+Drill, Plated, 1-16     : Drill TOP-BOT Plated.GBR
+Drill, Filled, 1-16     : Drill TOP-BOT Filled and Plated.GBR
+Netlist                 : Netlist.IPC
 
 Photoplotter Setup
 ------------------
